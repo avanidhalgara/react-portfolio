@@ -97,6 +97,15 @@ height: 100%;
   color:black
   
 }
-.mdl a {
-  color:white;
+.project-grid a  {
+  color:#005C97
+}
+.contact-body a{
+  color: #360033;  /* fallback for old browsers */
+
+}
+.contact-body hr{
+  border-top:5px dotted black;
+  width:100%;
+  
 }

@@ -39,6 +39,7 @@ class Projects extends Component {
             </CardText>
             <CardActions border>
               <a
+              className='font-color'
                 href="https://github.com/Ranjini2020/classroom-app"
                 target="_blank"
                 rel="noopener noreferrer"
