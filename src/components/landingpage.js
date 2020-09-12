@@ -12,9 +12,10 @@ class LandingPage extends Component{
                      <img src = "../images/avani-image.jpg" alt = "avaniImage" className = "avtar-image"/>
                         
                      <div className = 'banner-text'>
+                         <h1>Avani Dhalgara</h1>
                          <h1>Full Stack Web Developer</h1>
                          <hr/>
-                         <p>HTML5/CSS3 | Javascript | React | Bootstrap | MongoDB | MySql | Node.js | Express</p>
+                         <p>HTML5/CSS3 | Javascript | React | Bootstrap | MongoDB | MySQL | Node.js | Express</p>
                          <div className="social-links">
                              <a href ='https://www.linkedin.com/in/avani-dhalgara/' target ='_blank' rel='noopener noreferrer'>
                                  <i className="fa fa-linkedin-square"aria-hidden ='true'/>
@@ -22,6 +23,7 @@ class LandingPage extends Component{
                              <a href ='https://github.com/avanidhalgara' target ='_blank' rel='noopener noreferrer'>
                                  <i className="fa fa-github-square mr-50"aria-hidden ='true'/>
                              </a>
+                            
 
                          </div>
                      </div>

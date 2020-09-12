@@ -16,12 +16,12 @@ class Contact extends Component{
               
                
                <Cell col={12}> 
-               <h2 style={{fontSize:'25px',fontFamily: 'Roboto', color: '#360033'}}>Contact Me</h2>
+               <h2 style={{fontSize:'25px',fontFamily: 'Roboto', color: 'white'}}>Contact Me</h2>
                 <hr/>
                 <div  className='contact-list'>
                 <List>
                     <ListItem>
-                        <ListItemContent style={{fontSize:'25px',fontFamily: 'Roboto', color: '#360033'}}>
+                        <ListItemContent style={{fontSize:'25px',fontFamily: 'Roboto', color: 'white'}}>
                            <i className='fa fa-phone-square' aria-hidden='true'/>(763)-772-6837
                         </ListItemContent>
                      </ListItem>
