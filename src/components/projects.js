@@ -53,19 +53,17 @@ class Projects extends Component {
             </CardActions>
             <hr/>
             <CardText >
-              <h4 style ={{color:'#081c15'}}>Classroom App</h4>
+              <h5 style ={{color:'#081c15',fontWeight:'bold'}}>Classroom App</h5>
               <p style ={{color:'#e36414'}}>This is a group project.This app is for educators and students,
               where educator can create courses, add lessons and make it
               available to students. Students can enrol into class, view the
               courses they have enrolled and mark the course as completed once
               all lesons activities inside courses are read and understood.</p>
-              <h6 style ={{color:'#081c15'}}>Technologies used</h6>
+              <h6 style ={{color:'#081c15',fontWeight:'bold'}}>Technologies used</h6>
               <p style ={{color:'#e36414'}}>Node.js || MongoDB || React || Express || HTML/CSS || Bootstrap</p>
             </CardText>
             
-            {/* <CardMenu style={{color: '#fff'}}>
-                                <IconButton name="share" />
-                            </CardMenu> */}
+           
           </Card>
         </div>
       );
@@ -104,9 +102,9 @@ class Projects extends Component {
             </CardActions>
             <hr/>
             <CardText>
-              <h4 style={{color:'#118ab2'}}>Google-search-book</h4>
+              <h5 style={{color:'#118ab2',fontWeight:'bold'}}>Google-search-book</h5>
               <p style={{color:'#0b090a'}}>React-based Google Books Search app. This SPA (Single Page Application) uses [react-router-dom]to navigate, hide and show your React components without changing the route within Express. This app  display books based on user search. Allow user to view, save, and delete books based on query.</p> 
-              <h6 style={{color:'#118ab2'}}>Technologies used</h6>
+              <h6 style={{color:'#118ab2',fontWeight:'bold'}}>Technologies used</h6>
               <p style={{color:'#0b090a'}}>Node.js || MongoDB || React || Express || HTML/CSS || Bootstrap</p>
             </CardText>
             
@@ -146,9 +144,9 @@ class Projects extends Component {
             </CardActions>
             <hr/>
             <CardText>
-            <h4 style={{color:'#118ab2'}}>Employee Directory</h4>
+            <h5 style={{color:'#118ab2',fontWeight:'bold'}}>Employee Directory</h5>
             <p style={{color:'#0b090a'}}> The app takes in a set of random employees from the API Random User Generator (randomuser.me). It stores the random employees in context. The employees are mapped over and displayed in a table format. The user is also able to search by the users first name with the search input.</p>
-            <h6 style={{color:'#118ab2'}}>Technologies used</h6>
+            <h6 style={{color:'#118ab2',fontWeight:'bold'}}>Technologies used</h6>
               <p style={{color:'#0b090a'}}>Node.js || React || Express || HTML/CSS || Bootstrap</p>
             </CardText>
             
@@ -193,9 +191,9 @@ class Projects extends Component {
             </CardActions>
             
             <CardText>
-            <h4 style ={{color:'#e9c46a'}}>Note Taker</h4>
+            <h5 style ={{color:'#fcba04  ',fontWeight:'bold'}}>Note Taker</h5>
             <p style ={{color:'#1d3557'}}>The Note Taker is an app that uses an Express backend to save, retrieve, and delete notes from database MySql. The save icon appears When the user clicks the save icon, the note is added to the database and the list of notes on the left is updated to include the new note.</p>
-            <h6 style ={{color:'#e9c46a'}}>Technologies used</h6>
+            <h6 style ={{color:'#fcba04  ',fontWeight:'bold'}}>Technologies used</h6>
               <p style ={{color:'#1d3557 '}}>Node.js || MySQL || Express || HTML/CSS || Bootstrap || Javascript/Jquery || Postman</p>
             </CardText>
             
@@ -233,9 +231,9 @@ class Projects extends Component {
             </CardActions>
           
             <CardText>
-            <h4 style ={{color:'#e9c46a '}}>Transcript-Creator</h4>
+            <h5 style ={{color:'#fcba04  ',fontWeight:'bold'}}>Transcript-Creator</h5>
             <p style ={{color:'#1d3557 '}}>This app is allow Admin to maintain students database. Also based on student id, admin can enter students' marks and also able to create transcript.</p>
-            <h6 style ={{color:'#e9c46a '}}>Technologies used</h6>
+            <h6 style ={{color:'#fcba04  ',fontWeight:'bold'}}>Technologies used</h6>
               <p style ={{color:'#1d3557 '}}>Node.js || MySQL || Express || HTML/CSS || Bootstrap || Javascript/Jquery || Postman</p>
             </CardText>
            
@@ -276,9 +274,9 @@ class Projects extends Component {
               </a>
             </CardActions>
           <CardText>
-            <h4 style ={{color:'#e9c46a '}}>Weather-Dashboard</h4>
+            <h4 style ={{color:'#fcba04  ',fontWeight:'bold'}}>Weather-Dashboard</h4>
             <p style ={{color:'#0077b6 '}}>Weather Dashboard app shows the 5 days weather outlook for multiple cities so that user can plan a trip accordingly when user search for the city it shows current and future condition for that city and that city is added to the search history. it also shows current weather with the city name, the date, an icon representattion of weather conditions, thetemperature , the humidity , the wind speed, and the UV index. also added new functionality where the temperature is greter than 75 it changs the background image(like fiery or cloudy)</p>
-            <h6 style ={{color:'#e9c46a '}}>Technologies used</h6>
+            <h6 style ={{color:'#fcba04 ',fontWeight:'bold'}}>Technologies used</h6>
               <p style ={{color:'#0077b6 '}}>Node.js || Ajax || Express || HTML/CSS || Bootstrap || Javascript/Jquery </p>
           </CardText>
           

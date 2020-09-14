@@ -25,7 +25,7 @@ class Resume extends Component{
                        <h4 style={{paddingTop:'2em',color:'#03045e'}}>Avani Dhalgara</h4> 
                        <h5 style={{color:'#03045e'}}>Full Stack Developer</h5>
                        <hr style={{borderTop:'3px solid #023e8a',width:'90%'}}/> 
-                       <p>Full stack developer skilled in designing and developing modern web applications.</p>    
+                       <p>Full stack developer skilled in designing and developing modern web applications.	Experience in modern frameworks like React, Nodejs, JavaScript, MySQL, MongoDB, HTML, CSS, Bootstrap.</p>    
                        <hr style={{borderTop:'3px solid #023e8a',width:'90%'}}/> 
                        <h6 style={{color:'#03045e'}}>Address:</h6>
                        <p>8734 Alamo Circle,NE</p>
@@ -58,7 +58,7 @@ class Resume extends Component{
                         <Education
                         year='July-2003'
                         schoolName='Bachelor of Science in Botany. (Gujarat University) '
-                         schoolDescription='Regular study tours, field studies, garden visits and industrial visits to impart knowledge on the basics and applied aspects of the subject. Various hands on trainings and workshops are also arranged for the students from schools and colleges'
+                        //  schoolDescription='Regular study tours, field studies, garden visits and industrial visits to impart knowledge on the basics and applied aspects of the subject. Various hands on trainings and workshops are also arranged for the students from schools and colleges'
                         />
                         <hr style={{borderTop:'3px solid #fefae0',width:'100%'}}/>
                         <h4>Experience</h4> 
