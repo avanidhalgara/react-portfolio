@@ -33,9 +33,7 @@ class Contact extends Component{
                             </Link>
                         </ListItemContent>
                      </ListItem>
-                     <ListItem>
-                         <ListItemContent icon="person">Bob Odenkirk</ListItemContent>
-                     </ListItem>
+                     
                 </List>
 </div>
                </Cell>
