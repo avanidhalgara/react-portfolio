@@ -18,7 +18,8 @@ class Resume extends Component{
                <Grid>
                    <Cell col={4}>
                         <div style={{textAlign:'center'}}>
-                        <img src = "../images/avani-image.jpg" alt = "avaniImage"
+                        {/* <img src = "../images/avani-image.jpg" alt = "avaniImage" */}
+                        <img src = "../images/avaniImage.JPG" alt = "avaniImage"
                             
                             style={{height:'200px'}}/>
                        </div>

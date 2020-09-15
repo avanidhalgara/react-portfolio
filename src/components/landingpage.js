@@ -3,13 +3,14 @@ import {Grid, Cell} from 'react-mdl'
 
 
 
+
 class LandingPage extends Component{
     render(){
         return(
            <div style={{width:'100%',margin:'auto'}}>
              <Grid className='landing-grid'>
                  <Cell col={12}>
-                     <img src = "../images/avani-image.jpg" alt = "avaniImage" className = "avtar-image"/>
+                     <img src = "./image/avaniImage.JPG" alt = "avaniImage" className = "avtar-image"/>
                         
                      <div className = 'banner-text'>
                          <h1>Avani Dhalgara</h1>
