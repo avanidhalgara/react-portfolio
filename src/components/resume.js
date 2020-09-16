@@ -8,6 +8,7 @@ import {
   import Education from './education'
   import Experience from './experience'
   import Technical from './technicalSkill'
+  import Image from '../avani-image1.png'
 
 
 
@@ -19,7 +20,7 @@ class Resume extends Component{
                    <Cell col={4}>
                         <div style={{textAlign:'center'}}>
                         {/* <img src = "../images/avani-image.jpg" alt = "avaniImage" */}
-                        <img src = "../images/avaniImage.JPG" alt = "avaniImage"
+                        <img src ={Image} alt = "avaniImage"
                             
                             style={{height:'200px'}}/>
                        </div>

@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import {Grid, Cell} from 'react-mdl'
+import Image from '../avani-image1.png'
+
 
 
 
@@ -10,7 +12,7 @@ class LandingPage extends Component{
            <div style={{width:'100%',margin:'auto'}}>
              <Grid className='landing-grid'>
                  <Cell col={12}>
-                     <img src = "./image/avaniImage.JPG" alt = "avaniImage" className = "avtar-image"/>
+                     <img src ={Image} alt = "avaniImage" className = "avtar-image"/>
                         
                      <div className = 'banner-text'>
                          <h1>Avani Dhalgara</h1>
