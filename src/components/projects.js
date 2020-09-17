@@ -56,9 +56,9 @@ class Projects extends Component {
               <h5 style ={{color:'#081c15',fontWeight:'bold'}}>Classroom App</h5>
               <p style ={{color:'#e36414'}}>This is a group project.This app is for educators and students,
               where educator can create courses, add lessons and make it
-              available to students. Students can enrol into class, view the
+              available to students. Students can enroll into class, view the
               courses they have enrolled and mark the course as completed once
-              all lesons activities inside courses are read and understood.</p>
+              all lessons activities inside courses are read and understood.</p>
               <h6 style ={{color:'#081c15',fontWeight:'bold'}}>Technologies used</h6>
               <p style ={{color:'#e36414'}}>Node.js || MongoDB || React || Express || HTML/CSS || Bootstrap</p>
             </CardText>
@@ -234,7 +234,7 @@ class Projects extends Component {
             <h5 style ={{color:'#fcba04  ',fontWeight:'bold'}}>Transcript-Creator</h5>
             <p style ={{color:'#1d3557 '}}>This app is allow Admin to maintain students database. Also based on student id, admin can enter students' marks and also able to create transcript.</p>
             <h6 style ={{color:'#fcba04  ',fontWeight:'bold'}}>Technologies used</h6>
-              <p style ={{color:'#1d3557 '}}>Node.js || MySQL || Express || HTML/CSS || Bootstrap || Javascript/Jquery || Postman</p>
+              <p style ={{color:'#1d3557 '}}>Node.js || MySQL || Express || HTML/CSS || Bootstrap || JavaScript/Jquery || Postman</p>
             </CardText>
            
             
