@@ -19,7 +19,7 @@ function App() {
                 <Link to="/contact">Contact</Link>
             </Navigation>
         </Header>
-        <Drawer title={<Link style={{textDecoration:'none',color:'black'}}to='/react-portfolio'>My Portfolio</Link>}>
+        <Drawer title={<Link style={{textDecoration:'none',color:'#2a9d8f'}}to='react-portfolio'>My Portfolio</Link>}>
             <Navigation>
               <Link to="/about">About Me</Link>
                 <Link to="/resume">Resume</Link>
