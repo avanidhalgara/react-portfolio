@@ -10,7 +10,7 @@ import {
 class About extends Component{
     render(){
         return(
-            <div  className='contact-body'>
+            <div  className='contact-body'style ={{marginTop:'20px'}}>
             <Grid className='contact-grid'>
                <Cell col={12}>
                <h3 style={{color:'white'}}>About Me</h3>
