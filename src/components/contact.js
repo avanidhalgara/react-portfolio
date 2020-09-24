@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Cell,Grid,List,ListItem,ListItemContent} from 'react-mdl';
-import { Link } from 'react-router-dom'
+// import { Link } from 'react-router-dom'
 
 
 class Contact extends Component{
@@ -28,10 +28,13 @@ class Contact extends Component{
                      <ListItem>
                         <ListItemContent style={{fontSize:'25px',fontFamily: 'Roboto'}}>
                           
-                           <Link  to ="mailto:avanidhalgara01@gmail.com">
+                           {/* <Link  to ="mailto:avanidhalgara01@gmail.com">
                                 <i className='fa fa-envelope-square' aria-hidden='true'/>avanidhalgara01@gmail.com
-                            </Link>
+                            </Link> */}
+                            <a className="nav-link" href="mailto:avanidhalgara01@gmail.com">
+                            <i className='fa fa-envelope-square' aria-hidden='true'/>avanidhalgara01@gmail.com</a>
                         </ListItemContent>
+                        
                      </ListItem>
                      
                 </List>
